@@ -1,0 +1,167 @@
+@font-face {
+    font-family: 'Gen Jyuu GothicX';
+    src: url('GenJyuuGothicX-Bold.woff2') format('woff2'),
+        url('GenJyuuGothicX-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gen Jyuu GothicX';
+    src: url('GenJyuuGothicX-Regular.woff2') format('woff2'),
+        url('GenJyuuGothicX-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Gen Jyuu GothicX', sans-serif;
+	font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+	line-height: 1.5;
+}
+p, a, input, label, textarea, span, ul, li{
+	font-family: 'Gen Jyuu GothicX', sans-serif;
+	font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+	line-height: 1.5;
+}
+.jumbotron{
+	margin-top: 0px;
+ 	margin-left: 0px;
+ 	margin-right: 0px;
+ 	margin-bottom: 0px;
+ 	padding-top: : 0px;
+ 	padding-right: 0px;
+ 	padding-left: 0px;
+ 	padding-bottom: 0px;
+}
+.btn{
+	background-color: lightblue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+#navbar{
+	width: 100vw;
+	margin-top: 0px;
+ 	margin-left: 0px;
+ 	margin-right: 0px;
+ 	margin-bottom: 0px;
+ 	padding-top: : 0px;
+ 	padding-right: 0px;
+ 	padding-left: 0px;
+ 	padding-bottom: 0px;
+}
+#intro .jumbotron{
+	width: 100vw;
+	height: 80vh;
+	background-image: url('img/group.png');
+  	background-repeat: no-repeat;
+  	background-position: center;
+ 	background-attachment: fixed;  
+ 	background-size: cover;
+}
+#img1{
+	height: 40vh;
+}
+#img2{
+	height: 20vh;
+}
+header nav img{
+	width: 70px;
+	border-radius: 100%
+}
+header li{
+	margin: 0 10px;	
+}
+img{
+	max-width: 100%;
+}
+#topic .jumbotron{
+ 	background-color: rgb(203, 228, 221);
+}
+#topic h1{
+	font-size: 30px;
+}
+p{
+	text-align: justify;
+	text-justify: inter-word;
+}
+#activity .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#activity h1{
+	font-size: 30px;
+}
+#activity img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+#end .jumbotron{
+	background-color: #392F5A;
+	color: rgb(255, 248, 224);
+}
+#end a{
+	color: rgb(203, 228, 221);
+	text-decoration: underline;
+}
+#form iframe{
+	width: 80vw;
+	height: 80vh;
+}
+#theme .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#values .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#agenda .jumbotron{
+	background-color: white;
+}
+#schedule{
+	font-family: 'Gen Jyuu GothicX', sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+#activities .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#speakers .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#competition .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#topics .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#mentors .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#privacy .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#information .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#selection .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
+#faq .jumbotron{
+	background-color: rgb(255, 248, 224);
+}
