@@ -68,8 +68,12 @@ p, a, input, label, textarea, span, ul, li{
 }
 #img1{
 	display: block;
-	width: 80vw;
+	max-width: 80vw;
+	max-height: 40vh;
+	width: auto;
 	height: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 #img2{
 	display: block;
@@ -77,6 +81,8 @@ p, a, input, label, textarea, span, ul, li{
 	max-height: 20vh;
 	width: auto;
 	height: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 header nav img{
 	width: 70px;
