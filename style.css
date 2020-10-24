@@ -137,6 +137,15 @@ p{
 #agenda .jumbotron{
 	background-color: rgb(255, 248, 224);
 }
+#img3{
+	display: block;
+	max-width: 80vw;
+	max-height: 60vh;
+	width: auto;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
 #schedule{
 	font-family: 'Gen Jyuu GothicX', sans-serif;
 	border-collapse: collapse;
