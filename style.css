@@ -135,7 +135,7 @@ p{
 	background-color: rgb(255, 248, 224);
 }
 #agenda .jumbotron{
-	background-color: white;
+	background-color: rgb(255, 248, 224);
 }
 #schedule{
 	font-family: 'Gen Jyuu GothicX', sans-serif;
@@ -151,7 +151,7 @@ tr:nth-child(even) {
 	background-color: #dddddd;
 }
 #activities .jumbotron{
-	background-color: rgb(255, 248, 224);
+	background-color: rgb(203, 228, 221);
 }
 #speakers .jumbotron{
 	background-color: rgb(255, 248, 224);
@@ -160,7 +160,7 @@ tr:nth-child(even) {
 	background-color: rgb(255, 248, 224);
 }
 #topics .jumbotron{
-	background-color: rgb(255, 248, 224);
+	background-color: rgb(203, 228, 221);
 }
 #mentors .jumbotron{
 	background-color: rgb(255, 248, 224);
