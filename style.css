@@ -30,6 +30,9 @@ p, a, input, label, textarea, span, ul, li{
     font-display: swap;
 	line-height: 1.5;
 }
+p.cen{
+	text-align: center;
+}
 .jumbotron{
 	margin-top: 0px;
  	margin-left: 0px;
