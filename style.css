@@ -142,8 +142,7 @@ p{
 }
 #img3{
 	display: block;
-	max-width: 80vw;
-	width: auto;
+	width: 80vw;
 	height: auto;
 	margin-left: auto;
 	margin-right: auto;
