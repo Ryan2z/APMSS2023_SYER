@@ -142,8 +142,9 @@ p{
 }
 #img3{
 	display: block;
-	width: 80%;
-	max-height = width / 2480 * 3508;
+	max-width: 80vw;
+	max-height: 100%;
+	width: auto;
 	height: auto;
 	margin-left: auto;
 	margin-right: auto;
